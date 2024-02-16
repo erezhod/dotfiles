@@ -12,3 +12,9 @@
 ```zsh
 brew install neofetch neovim tmux tree-sitter
 ```
+
+### Gem dependencies
+
+```zsh
+sudo gem install colorls
+```
