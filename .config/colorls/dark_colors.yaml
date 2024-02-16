@@ -1,0 +1,46 @@
+# Main Colors
+unrecognized_file: red
+recognized_file:   mediumslateblue
+executable_file:   yellow
+dir:               snow
+
+# Link
+dead_link: red
+link:      cyan
+
+# special files
+socket:    green
+blockdev:  green
+chardev:   green
+
+# Access Modes
+write:     yellow
+read:      green
+exec:      red
+no_access: white
+
+# Age
+day_old:     slategray
+hour_old:    green
+no_modifier: white
+
+# File Size
+file_large:  tomato
+file_medium: orange
+file_small:  white
+
+# Random
+report: white
+user:   blue
+tree:   cyan
+empty:  yellow
+error:  red
+normal: pink
+inode: moccasin
+
+# Git
+addition:     chartreuse
+modification: darkkhaki
+deletion:     darkred
+untracked:    darkorange
+unchanged:    forestgreen
