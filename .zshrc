@@ -105,7 +105,8 @@ alias e="exit"
 alias n="nvim"
 alias t="tmux"
 alias tn="(){tmux new -s $1}"
-alias ga="git add ." alias gs="git status -s"
+alias ga="git add ."
+alias gs="git status -s"
 alias gc="(){git commit -m $1}"
 alias ls="colorls"
 alias py="python3"
@@ -120,6 +121,5 @@ export NVM_DIR="$HOME/.nvm"
 alias lg='lazygit'
 
 # Colorls tab completion
-
 source $(dirname $(gem which colorls))/tab_complete.sh
 
