@@ -111,6 +111,7 @@ alias gc="(){git commit -m $1}"
 alias ls="colorls"
 alias py="python3"
 alias pip="pip3"
+alias swf="swift-format"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
